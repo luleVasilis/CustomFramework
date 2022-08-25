@@ -36,14 +36,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1MVXICX9rhdLE+mhZAufVzjSivXeEDCMA2y/E7L1erE=
+			+7D6cY3Y2eIJVymPFakF3JeWwCMSvBH8U/8T53obgio=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PajzXVJyW/ysiTmjNQ40lldISFpxhXpuaAtjENq3mfQ=
+			XviUxLnDv4E9SpNuf+k3K202HRGPlo0yK9+CGDBv5CA=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -57,14 +57,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0NexYrATOatdAZg/5LJnqdMX97gBtkiAFSvp7mDRJPk=
+			+ZBe7Jb3Q6443AdqUwHqnnriLmyhuc/AJ+eOo8O8eWA=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y1SDDPYepaw5tgYRpr48Gndz6bMi7wcOsfj0WhF7N00=
+			/su02xpGcvL6dx9D4f1gXMyPVLt0ZWvZp6CesjJkB7k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
